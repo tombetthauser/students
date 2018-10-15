@@ -1,0 +1,52 @@
+* {
+	font-family: sans-serif;
+	font-weight: 100;
+	text-align: center;
+}
+
+#body {
+	margin-top: 15%;
+}
+
+#results {
+	margin-top: 3em;
+}
+
+#clear {
+	color: black;
+	font-size: .85em;
+	margin-top: 10%;
+	text-decoration: none;
+}
+
+#clear:hover {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	opacity: .95;
+}
+
+#help {
+	color: black;
+	font-size: .5em;
+	text-decoration: none;
+}
+
+#help:hover {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	opacity: .95;
+}
+
+/*.studentLink {
+	color: black;
+	text-decoration: none;
+}
+
+.studentLink:hover {
+	color: black;
+	text-decoration: none;
+	cursor: pointer;
+	opacity: .95;
+}*/
